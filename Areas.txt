@@ -1,0 +1,7 @@
+Areas
+
+Alaska: 46.08 m^2
+GOM:    24.76 m^2
+Peru:   40.62 m^2
+
+Alaska and GOM are the only ones with 2012 data. So the estimate would be 70.84 m^2 for 2012 surveys.
